@@ -1,1 +1,1 @@
-# FreeCodeCamp projects
+# FreeCodeCamp practice projects 
